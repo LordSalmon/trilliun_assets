@@ -49,7 +49,7 @@ Das ist die Übersicht einer Abrechnung. Hier sind die wichtigsten Informationen
 <br />
 
 
-In den Abrechnungseinstellungen können Sie die Abrechnung anpassen. Sie können die Abrechnungsperiode ändern, den Namen oder Klassennamen anpassen und die Benutzer:innen, die von der Abrechnung betroffen sind anpassen. Um Personen zur Abrechnungsperiode hinzuzufügen, klicken Sie auf das `+` oben rechts über der Liste. Um Personen zu entfernen, klicken Sie auf das Mülleimer-Symbol neben dem Namen der Person.
+In den Abrechnungseinstellungen können Sie die Abrechnung anpassen. Sie können die Abrechnungsperiode ändern, den Namen oder Klassennamen anpassen und die Benutzer:innen, die von der Abrechnung betroffen sind anpassen. Um Personen zur Abrechnungsperiode hinzuzufügen, klicken Sie auf das `+` oben rechts über der Liste. Um Personen zu entfernen, klicken Sie auf das Mülleimer-Symbol rechts neben dem Namen der Person.
 
 <br />
 
