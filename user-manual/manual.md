@@ -18,7 +18,7 @@ Um eine Abrechnung zu erstellen, klicken Sie auf den Button `Neue Abrechnung`. E
 
 ## Abrechnungsübersicht
 
-![Abrechnungsübersicht]("https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-overview.png")
+![Abrechnungsübersicht](https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-overview.png)
 
 Das ist die Übersicht einer Abrechnung. Hier sind die wichtigsten Informationen und Navigationsmöglichkeiten zu sehen, die für die Abrechnung relevant sind.
 
@@ -30,17 +30,17 @@ Das ist die Übersicht einer Abrechnung. Hier sind die wichtigsten Informationen
 
 ## Abrechnungseinstellungen
 
-![Abrechnungseinstellungen]("https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-settings.png")
+![Abrechnungseinstellungen](https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-settings.png)
 
 In den Abrechnungseinstellungen können Sie die Abrechnung anpassen. Sie können die Abrechnungsperiode ändern, den Namen oder Klassennamen anpassen und die Benutzer:innen, die von der Abrechnung betroffen sind anpassen. Um Personen zur Abrechnungsperiode hinzuzufügen, klicken Sie auf das `+` oben rechts über der Liste. Um Personen zu entfernen, klicken Sie auf das Mülleimer-Symbol neben dem Namen der Person.
 
 ### Person hinzufügen
 
-![Person hinzufügen]("https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-add-user.png")
+![Person hinzufügen](https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-add-user.png)
 
 Um eine Person hinzuzufügen, geben Sie den Namen der Person ein und klicken Sie auf die Kachel der Person. Die linke Liste steht für Personen die sie auswählen können, rechts wird die Liste der bereits ausgewählten Personen angezeigt. Dabei können Sie auswählen was für eine Rolle die Person in der Abrechnungsperiode spielt und mit welchem Saldo die Person startet. Dies wird gebraucht wenn ein:e Schüler:in bspw. eine Klasse wechselt, oder eine neue Abrechnungsperiode einer bereits existierenden Klasse erstellt wird. Die Liste der auswählbaren Personen ist filterbar durch den Namen, die Tags in denen der Klassenname steht und die Rollen der Personen. Um nach den Rollen zu filtern (um bspw. nur Schüler:innen anzeigen) klicken Sie auf das Rollen-Symbol rechts von den Tags bei einer Person. 
 
-![Nach Rolle filtern]("https://raw.githubusercontent.com/LordSalmon/trillium_assets/main/user-manual/images/filter-by-role.png")
+![Nach Rolle filtern](https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/filter-by-role.png)
 
 
 ## Rechnung erstellen
