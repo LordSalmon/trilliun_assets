@@ -89,6 +89,62 @@ Um eine Person hinzuzufügen, geben Sie den Namen der Person ein und klicken Sie
 
 
 ## Rechnung erstellen
+
+Die Hauptaufgabe der Kassiers / Kassiererinnen ist es, Rechnungen zu erstellen. Dazu klicken Sie auf den Button `Rechnung erstellen`. Es öffnet sich ein neues Fenster, in dem Sie die Rechnung erstellen können. Sie können die Rechnung auch manuell erstellen, indem Sie die Daten in die entsprechenden Felder eingeben. Klicken Sie auf `Speichern`, um die Rechnung zu speichern.
+
+1. Titel
+- Geben Sie einen aussagekräftigen Namen für die Rechnung ein. Dieser Name dient zur Identifizierung und kann optional spezifische Informationen wie den Namen der Schüler:innen enthalten.
+
+2. Titel für Schüler:innen
+- Falls bei der Ansicht der Schüler:innen ein spezifischer Titel gewünscht ist, kann dieser hier eingegeben werden. Ansonsten wird automatisch der Rechnungstitel genommen.
+
+3. Empfänger:in
+- Geben Sie den Namen der Firma oder Institution ein, an die die Zahlung erfolgte. Dies könnte zum Beispiel der Name eines Buchladens sein.
+
+4. Rechnungstyp
+- Hierbei wird angegeben, ob es sich bei der Bewegung um eine Einnahme oder eine Ausgabe handelt.
+
+5. Betrag
+- Geben Sie den Betrag der Rechnung ein. Dieser Betrag wird automatisch auf die Schüler:innen aufgeteilt, die in der Rechnung enthalten sind (sofern nicht anders angegeben). **Wichtig:** Dieser Betrag Kontobewegungen im E-Banking. Bei einer internen Verschiebung (beispielsweise von einem Schüler zu einem anderen) muss der Betrag 0.00 CHF betragen, da keine wirkliche Transaktion erfolg ist.
+
+6. Überweisungsdatum
+- Geben Sie das Datum ein, an dem die Zahlung erfolgte. **Wichtig:** Damit ist nicht das Datum gemeint, an dem die Rechnung in Trilliun erfasst wurde, sondern das Datum, an dem die Kontobewegung stattgefunden hat.
+
+7. Hinzufügen von Schüler:innen
+- Um Schüler:innen hinzuzufügen, klicken Sie auf die Boxen mit den entsprechenden Namen der Schüler:innen im Reiter `Beteiligte`.
+
+8. Aufteilung des Rechnungsbetrags
+- Standardmäßig wird der Rechnungsbetrag automatisch auf alle hinzugefügten Schüler:innen gleichmäßig aufgeteilt. Falls jedoch ein Schüler oder eine Schülerin einen speziellen Betrag hat, können Sie diesen individuell festlegen.
+
+9. Spezielle Beträge festlegen
+- Um einen individuellen Betrag für eine Person festzulegen, klicken Sie auf das Vorhängeschloss-Symbol neben dem Namen der Person und geben Sie den entsprechenden Betrag ein.
+
+10. Kontoausgleich
+- Es kann sein, dass die Aufteilung des Rechnungsbetrags auf die einzelnen Schüler:innen (gerundet auf 5 Rappen) nicht exakt aufgeht und eine Diskrepanz mit dem Gesamtbetrag besteht. In diesem Fall können Sie den Kontoausgleich verwenden, um den Betrag auszugleichen. Dieser wird automatisch berechnet, meistens ist also keine manuelle Anpassung notwendig. Falls doch, wird im nächsten Reiter erklärt, wie dies gemacht wird.
+
+11. Hinzufügen von Notizen
+- Falls erforderlich, können Sie zusätzliche Informationen oder Erläuterungen zur Rechnung in das Notizfeld eingeben. Dies könnte beispielsweise Details darüber enthalten, wie bestimmte Beträge zustande gekommen sind.
+
+12. Verwendung von Tags
+- Verwenden Sie Tags, um Rechnungen später einfach zu filtern.
+
+13. Hinzufügen von Medien
+- Es wird **dringend** empfohlen, einen Rechnungsscan oder einen Zahlungsbeleg als in der Kategorie *Belege* hinzuzufügen, insbesondere bei Zahlungen an Dritte.
+
+<br />
+<br />
+
+
+
 ### Spezialfälle bei der Rechnungserstellung
+
+Es kann passieren, dass der Kontoausgleich einen speziellen Betrag erfordert. Dies kann bei einer komplexeren Rechnung passieren oder auch wenn das **virtuelle** Saldo des Kontoausgleichs aufgefüllt werden soll. Bei zweiterem kann wie folgt vorgegangen werden:
+
+ - Geben sie im Eingabefeld `Betrag` den Betrag ein, der aufgefüllt werden soll.
+ - Fügen Sie alle Schüler:innen der Klasse hinzu, die beim Auffüllen des virtuellen Saldos beteiligt sind. Normalerweise sind dies alle Schüler:innen der Klasse.
+ - Nun wird der Betrag für jede:n Schüler:in gleichmässig aufgeteilt. Fixieren sie die Beträge der Schüler mit dem Vorhängeschloss.
+ - Ersetzen Sie den ursprünglichen Rechnungsbetrag durch 0.00 CHF.
+ - Nun sollte der Kontoausgleich der Summe aller Beträge der Schüler:innen entsprechen.
+
 ## Status der Abrechnungsperiode
 ## Export
