@@ -7,6 +7,8 @@
 4. [Rechnung erstellen](#rechnung-erstellen)
     1. [Spezialfälle bei der Rechnungserstellung](#spezialfälle-bei-der-rechnungserstellung)
 5. [Status der Abrechnungsperiode](#status-der-abrechnungsperiode)
+    1. [Wofür dient der Status?](#wofür-dient-der-status)
+    2. [Ist der Status repräsentativ für eine gut geführte Abrechnungsperiode?](#ist-der-status-repräsentativ-für-eine-gut-geführte-abrechnungsperiode)
 6. [Export](#export)
 
 ## Abrechnung erstellen
