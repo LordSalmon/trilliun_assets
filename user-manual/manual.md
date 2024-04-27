@@ -147,4 +147,27 @@ Es kann passieren, dass der Kontoausgleich einen speziellen Betrag erfordert. Di
  - Nun sollte der Kontoausgleich der Summe aller Beträge der Schüler:innen entsprechen.
 
 ## Status der Abrechnungsperiode
+
+Der Status der Abrechnungsperiode kann über die Übersicht angesehen werden.
+
+![Person hinzufügen](https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-overview-status-highlight.png)
+
+### Wofür dient der Status?
+
+Der Status beschreibt die **messbare** *Gesundheit* der Abrechnungsperiode. Dabei wird folgendes kontrolliert:
+
+- Die hinzugefügten Benutzer:innen sind alle im System aktiviert (Schüler:innen sind in Klassen und im Schulwesen aktiv)
+- Für Rechnungen wurden Belege oder Anhänge hinzugefügt. Dies dient zur besseren Nachverfolgung.
+- Rechnungen haben eine:n Begünstigte:n (Bspw. Bücherversand AG)
+- Der Abrechnungebetrag ist positiv
+- Der Kontoausgleichsbetrag ist auf 0.00 CHF oder darüber.
+
+All diese Faktoren werden anhand ihrer Wichtigkeit summiert und ein Score ergibt sich. Dieser Score ist ein Indikator dafür, wie gut die Abrechnungsperiode geführt wird und wo Fehler sein könnten oder verbesserungen vorgenommen werden könnten.
+
+### Ist der Status repräsentativ für eine gut geführte Abrechnungsperiode?
+
+Ein hoher Status kann ein Indikator für eine gut geführte Abrechnungsperiode sein, ist allerdings nicht als absolutes Mass zu verstehen. Er kontrolliert nicht den Inhalt der Rechnungsbelege oder ob die Gründe und Beträge in einer erfassten Rechnung sinnvoll oder nachvollziehbar sind. Für die absolute Gewissheit, ob eine Abrechnungsperiode den Anforderungen entsprechend geführt wird, müssen weiterhin die Rechnungen und Saldi der Teilnehmer:innen kontrolliert werden.
+
 ## Export
+
+Der Export-Bereich fasst alle Transaktionen der Abrechnungsperiode zusammen und generiert daraus ein PDF-Dokument. Dabei kann gewählt werden, ob die gesamte Abrechnungsperiode exportiert werden soll, oder das Dokument für die einzelnen Teilnehmer:innen. Diese können bei Bedarf postalisch oder per E-Mail an die Eltern der Teilnehmer:innen gesendet werden.
