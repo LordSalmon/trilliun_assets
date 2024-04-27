@@ -146,11 +146,17 @@ Es kann passieren, dass der Kontoausgleich einen speziellen Betrag erfordert. Di
  - Ersetzen Sie den ursprünglichen Rechnungsbetrag durch 0.00 CHF.
  - Nun sollte der Kontoausgleich der Summe aller Beträge der Schüler:innen entsprechen.
 
+<br />
+<br />
+
 ## Status der Abrechnungsperiode
 
 Der Status der Abrechnungsperiode kann über die Übersicht angesehen werden.
 
 ![Person hinzufügen](https://raw.githubusercontent.com/LordSalmon/trilliun_assets/main/user-manual/images/settlement-overview-status-highlight.png)
+
+<br />
+<br />
 
 ### Wofür dient der Status?
 
@@ -164,9 +170,15 @@ Der Status beschreibt die **messbare** *Gesundheit* der Abrechnungsperiode. Dabe
 
 All diese Faktoren werden anhand ihrer Wichtigkeit summiert und ein Score ergibt sich. Dieser Score ist ein Indikator dafür, wie gut die Abrechnungsperiode geführt wird und wo Fehler sein könnten oder verbesserungen vorgenommen werden könnten.
 
+<br />
+<br />
+
 ### Ist der Status repräsentativ für eine gut geführte Abrechnungsperiode?
 
 Ein hoher Status kann ein Indikator für eine gut geführte Abrechnungsperiode sein, ist allerdings nicht als absolutes Mass zu verstehen. Er kontrolliert nicht den Inhalt der Rechnungsbelege oder ob die Gründe und Beträge in einer erfassten Rechnung sinnvoll oder nachvollziehbar sind. Für die absolute Gewissheit, ob eine Abrechnungsperiode den Anforderungen entsprechend geführt wird, müssen weiterhin die Rechnungen und Saldi der Teilnehmer:innen kontrolliert werden.
+
+<br />
+<br />
 
 ## Export
 
