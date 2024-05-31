@@ -77,7 +77,7 @@ In den Abrechnungseinstellungen können Sie die Abrechnung anpassen. Sie können
 <br />
 
 
-Um eine Person hinzuzufügen, geben Sie den Namen der Person ein und klicken Sie auf die Kachel der Person. Die linke Liste steht für Personen die sie auswählen können, rechts wird die Liste der bereits ausgewählten Personen angezeigt. Dabei können Sie auswählen was für eine Rolle die Person in der Abrechnungsperiode spielt und mit welchem Saldo die Person startet. Dies wird gebraucht wenn ein:e Schüler:in bspw. eine Klasse wechselt, oder eine neue Abrechnungsperiode einer bereits existierenden Klasse erstellt wird. Die Liste der auswählbaren Personen ist filterbar durch den Namen, die Tags in denen der Klassenname steht und die Rollen der Personen. Um nach den Rollen zu filtern (um bspw. nur Schüler:innen anzeigen) klicken Sie auf das Rollen-Symbol rechts von den Tags bei einer Person. 
+Um eine Person hinzuzufügen, geben Sie den Namen der Person ein und klicken Sie auf die Kachel der Person. Die linke Liste steht für Personen die sie auswählen können, rechts wird die Liste der bereits ausgewählten Personen angezeigt. Dabei können Sie auswählen was für eine Rolle die Person in der Abrechnungsperiode spielt und mit welchem Saldo die Person startet. Dies wird gebraucht wenn ein:e Schüler:in bspw. eine Klasse wechselt, oder eine neue Abrechnungsperiode einer bereits existierenden Klasse erstellt wird. Die Liste der auswählbaren Personen ist filterbar durch den Namen, die Tags in denen der Klassenname steht und die Rollen der Personen. Um nach den Rollen zu filtern (um bspw. nur Schüler:innen anzeigen) klicken Sie auf das Rollen-Symbol rechts von den Tags bei einer Person.
 
 <br />
 <br />

@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.4
+- fix: supervisors can now change the password for other supervisors
+
 ## v1.1.3
 - fix: changelog typos and formatting
 - fix: outsourced changelog to asset repository
