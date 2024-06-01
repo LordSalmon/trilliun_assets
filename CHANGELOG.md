@@ -1,6 +1,8 @@
 # Changelog
 
-## v1.1.4
+## v1.1.4
+- fix: add active and inactive filter for settlement students page
+- feat: add inactive settlement connections with non zero saldo to settlement status calculation
 - fix: supervisors can now change the password for other supervisors
 
 ## v1.1.3
