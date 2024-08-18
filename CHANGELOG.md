@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.5
+## v1.1.5
 - feat: settlement connect people: converted filter to backend search
 - feat: added person delete feature for API and UI
 - feat: added reference display for logs and automatic linking to the admin UI for logs regarding people
