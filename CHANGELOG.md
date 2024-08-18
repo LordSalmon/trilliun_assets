@@ -1,6 +1,15 @@
 # Changelog
 
+## v1.1.5
+- feat: settlement connect people: converted filter to backend search
+- feat: added person delete feature for API and UI
+- feat: added reference display for logs and automatic linking to the admin UI for logs regarding people
+- fix: settlement edit permissions refined
+- fix: metadata application command refined
+- fix: refined storage cleanup command and added error handling 
+
 ## v1.1.4
+- fix: students can now be deleted when editing an invoice
 - fix: add active and inactive filter for settlement students page
 - feat: add inactive settlement connections with non zero saldo to settlement status calculation
 - fix: supervisors can now change the password for other supervisors
