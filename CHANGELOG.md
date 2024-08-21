@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.6
+- fix: settlement connection permissions for supervisor and manager
+
 ## v1.1.5
 - feat: settlement connect people: converted filter to backend search
 - feat: added person delete feature for API and UI
