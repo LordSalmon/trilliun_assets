@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.7
+- feat: cashiers can now only delete settlement connections if they are allowed to
+- fix: settlement connections are now only deletable is no booking exists
+- fix: settlement owners are now set to inactive then the person is manager or supervisor
+
 ## v1.1.6
 - fix: settlement connection permissions for supervisor and manager
 
