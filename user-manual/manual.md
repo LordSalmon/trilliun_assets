@@ -94,7 +94,7 @@ Die Hauptaufgabe der Kassiers / Kassiererinnen ist es, Rechnungen zu erstellen. 
 - Hierbei wird angegeben, ob es sich bei der Bewegung um eine Einnahme oder eine Ausgabe handelt.
 
 5. Betrag
-- Geben Sie den Betrag der Rechnung ein. Dieser Betrag wird automatisch auf die Schüler:innen aufgeteilt, die in der Rechnung enthalten sind (sofern nicht anders angegeben). **Wichtig:** Dieser Betrag Kontobewegungen im E-Banking. Bei einer internen Verschiebung (beispielsweise von einem Schüler zu einem anderen) muss der Betrag 0.00 CHF betragen, da keine wirkliche Transaktion erfolg ist.
+- Geben Sie den Betrag der Rechnung ein. Dieser Betrag wird automatisch auf die Schüler:innen aufgeteilt, die in der Rechnung enthalten sind (sofern nicht anders angegeben). **Wichtig:** Dieser Betrag ist immer derselbe wie der Betrag der Kontobewegungen im E-Banking. Bei einer internen Verschiebung (beispielsweise von einem Schüler zu einem anderen) muss der Betrag 0.00 CHF betragen, da keine wirkliche Transaktion erfolg ist.
 
 6. Überweisungsdatum
 - Geben Sie das Datum ein, an dem die Zahlung erfolgte. **Wichtig:** Damit ist nicht das Datum gemeint, an dem die Rechnung in Trilliun erfasst wurde, sondern das Datum, an dem die Kontobewegung stattgefunden hat.
