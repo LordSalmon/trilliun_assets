@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.8
+- feat: the datepicker popup accepts now disabled date limits like disabledBefore and disabledAfter.
+- feat: add sorting support for settlement list
+- fix: refined fetching permissions for invoice edit
+- fix: calculation of compensation amount for invoice detail view works now
+- feat: added sort oder for invoice connection list in invoice detail view
+- feat: the save button in settlement settings saves now all changes at once
+
 ## v1.1.7
 - feat: cashiers can now only delete settlement connections if they are allowed to
 - fix: settlement connections are now only deletable is no booking exists
