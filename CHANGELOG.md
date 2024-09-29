@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.9
+- fix: inactive people are now not selected when clicking the 'select all' icon in the invoice builder
+- fix: date picker timezone handling
+- fix: the log order in the person detail view for admins is now descending
+- fix: date formatting ignores timezones now
+- fix: settlements can now be deleted only by the owner or by an admin.
+
 ## v1.1.8
 - feat: the datepicker popup accepts now disabled date limits like disabledBefore and disabledAfter.
 - feat: add sorting support for settlement list
