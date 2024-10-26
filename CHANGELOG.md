@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.10
+ - fix(settlements): display correct number of active settlement participants
+ - fix(account balance): account balance amount on dedicated page should now be calculated correctly
+ - fix(ux): navigate back from invoice detail and not fix to invoice list
+ - fix(ui): date picker display ignores the timezone now
+
 ## v1.1.9
 - fix: inactive people are now not selected when clicking the 'select all' icon in the invoice builder
 - fix: date picker timezone handling
