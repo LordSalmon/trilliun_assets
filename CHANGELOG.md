@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.11
+ - fix: hide invoices with not outbalancing from account balance invoice list view 
+
 ## v1.1.10
  - fix(settlements): display correct number of active settlement participants
  - fix(account balance): account balance amount on dedicated page should now be calculated correctly
