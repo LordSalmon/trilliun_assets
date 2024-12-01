@@ -1,6 +1,7 @@
 # Changelog
 
 ## v1.1.11
+ - fix: managers and supervisors can now see all attachments
  - fix: removed possible login deadlock
  - fix: hide invoices with not outbalancing from account balance invoice list view
 
