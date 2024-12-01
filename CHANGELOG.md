@@ -1,7 +1,8 @@
 # Changelog
 
 ## v1.1.11
- - fix: hide invoices with not outbalancing from account balance invoice list view 
+ - fix: removed possible login deadlock
+ - fix: hide invoices with not outbalancing from account balance invoice list view
 
 ## v1.1.10
  - fix(settlements): display correct number of active settlement participants
@@ -38,7 +39,7 @@
 - feat: added reference display for logs and automatic linking to the admin UI for logs regarding people
 - fix: settlement edit permissions refined
 - fix: metadata application command refined
-- fix: refined storage cleanup command and added error handling 
+- fix: refined storage cleanup command and added error handling
 
 ## v1.1.4
 - fix: students can now be deleted when editing an invoice
@@ -126,7 +127,7 @@
 - fix: prohibit edit of deleted people
 - fix: added sorting for settlement connections in settings
 - fix: settlement connection preview amount is now cast as int but now as number
-- fix: changed thumbnail url to proxy request 
+- fix: changed thumbnail url to proxy request
 - fix: adjusted tag preview style
 
 ## v1.0.4
