@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.12
+ - fix: person settlement balance calculation unified
+ - fix: topbar title for settlement student list added
+ - fix: minor typing issues
+
 ## v1.1.11
  - fix: managers and supervisors can now see all attachments
  - fix: removed possible login deadlock
