@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.13
+ - fix: moved calculation for activation change permission to the API
+
 ## v1.1.12
  - fix: person settlement balance calculation unified
  - fix: topbar title for settlement student list added
