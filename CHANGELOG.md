@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.14
+ - fix: typos
+
 ## v1.1.13
  - fix: moved calculation for activation change permission to the API
 
