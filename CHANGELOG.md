@@ -5,6 +5,7 @@
 - fix(ui): add tag filtering for invoice list
 - fix(infra): request timeout for exporting large billing periods
 - fix(frontend): typos
+- fix(export): remove signing section for person export details
 
 ## v1.1.13
 
