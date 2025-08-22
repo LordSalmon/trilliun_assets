@@ -77,7 +77,7 @@ Die Hauptaufgabe der Kassiers / Kassiererinnen ist es, Rechnungen zu erstellen. 
 
 - Geben Sie einen aussagekräftigen Namen für die Rechnung ein. Dieser Name dient zur Identifizierung und kann optional spezifische Informationen wie den Namen der Schüler:innen enthalten.
 
-2. Titel für Schüler:innen
+2. Bemerkung
 
 - Kann als zusätzliche Bemerkung benutzt werden, die mehr Aufschluss über die Rechnung gibt. Ungeändert wird automatisch der Rechnungstitel übernommen. Dieses Feld wird nur intern in der Rechnungsübersicht angezeigt.
 
