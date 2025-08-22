@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.15
+
+- fix(ui): wording for student title of invoice creation
+- fix(infra): http server config enhanced
+
 ## v1.1.14
 
 - fix(ui): add tag filtering for invoice list
